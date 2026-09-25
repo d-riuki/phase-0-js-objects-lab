@@ -1,5 +1,11 @@
-//Write your code here
-
+// creating a variable named attendee
+const attendee = {
+  attendeeId: "T001",
+  name: "Alice Smith",
+  event: "JavaScript Conference",
+  ticketType: "VIP",
+  ticketPrice: 150.00
+};
 
 
 //Needed for the tests to work. Don't modify
